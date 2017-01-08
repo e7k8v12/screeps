@@ -2,67 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e4a3899f-f6a8-4c15-8fa5-13fe83c1b0e5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/screeps.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScreepsAutocomplete/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScreepsAutocomplete/Config/SublimeCodeIntel.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScreepsAutocomplete/ConstructionSite.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScreepsAutocomplete/Creep.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScreepsAutocomplete/Flag.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScreepsAutocomplete/Game.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScreepsAutocomplete/Global/Constants.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScreepsAutocomplete/Memory.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScreepsAutocomplete/Mineral.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScreepsAutocomplete/Nuke.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScreepsAutocomplete/OwnedStructure.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScreepsAutocomplete/PathFinder.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScreepsAutocomplete/RawMemory.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScreepsAutocomplete/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScreepsAutocomplete/Resource.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScreepsAutocomplete/Room.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScreepsAutocomplete/RoomObject.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScreepsAutocomplete/RoomPosition.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScreepsAutocomplete/Source.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScreepsAutocomplete/Structure.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScreepsAutocomplete/Structures/StructureContainer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScreepsAutocomplete/Structures/StructureController.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScreepsAutocomplete/Structures/StructureExtension.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScreepsAutocomplete/Structures/StructureExtractor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScreepsAutocomplete/Structures/StructureKeeperLair.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScreepsAutocomplete/Structures/StructureLab.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScreepsAutocomplete/Structures/StructureLink.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScreepsAutocomplete/Structures/StructureNuker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScreepsAutocomplete/Structures/StructureObserver.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScreepsAutocomplete/Structures/StructurePortal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScreepsAutocomplete/Structures/StructurePowerBank.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScreepsAutocomplete/Structures/StructurePowerSpawn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScreepsAutocomplete/Structures/StructureRampart.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScreepsAutocomplete/Structures/StructureRoad.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScreepsAutocomplete/Structures/StructureSpawn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScreepsAutocomplete/Structures/StructureStorage.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScreepsAutocomplete/Structures/StructureTerminal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScreepsAutocomplete/Structures/StructureTower.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScreepsAutocomplete/Structures/StructureWall.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScreepsAutocomplete/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/tutorial/default/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/tutorial/default/placeholder.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/tutorial/tutorial-1/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/tutorial/tutorial-2/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/tutorial/tutorial-2/role.builder.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/tutorial/tutorial-2/role.harvester.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/tutorial/tutorial-2/role.upgrader.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/tutorial/tutorial-3/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/tutorial/tutorial-3/role.harvester.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/tutorial/tutorial-4/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/tutorial/tutorial-4/role.harvester.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/tutorial/tutorial-4/role.upgrader.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/tutorial/tutorial-5/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/tutorial/tutorial-5/role.builder.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/tutorial/tutorial-5/role.harvester.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/tutorial/tutorial-5/role.upgrader.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -110,8 +50,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="478" />
-    <option name="y" value="500" />
+    <option name="x" value="401" />
+    <option name="y" value="328" />
     <option name="width" value="2009" />
     <option name="height" value="875" />
   </component>
@@ -236,7 +176,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="js.eslint.eslintPackage" value="" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -317,15 +257,23 @@
       <workItem from="1483725932611" duration="104000" />
       <workItem from="1483726074071" duration="166000" />
       <workItem from="1483726490311" duration="1340000" />
-      <workItem from="1483843427202" duration="562000" />
+      <workItem from="1483843427202" duration="799000" />
     </task>
+    <task id="LOCAL-00001" summary="with tutorials&#10;">
+      <created>1483844013559</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1483844013559</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2172000" />
+    <option name="totallyTimeSpent" value="2409000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="478" y="500" width="2009" height="875" extended-state="0" />
+    <frame x="401" y="328" width="2009" height="875" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17371827" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -351,6 +299,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="with tutorials&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="with tutorials&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -424,6 +376,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
